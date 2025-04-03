@@ -83,28 +83,5 @@ Using **Dynamic Topic Modeling (DTM)** and **high-frequency trading data**, this
   - Other social platforms (e.g., Reddit, Facebook)
   - Off-hour tweet impact on market **opening volatility**
 
----
 
-## 👩‍💻 Authors (Team 20 – HSS407 / DS571 / DHS407)
-
-- Yungeun Song (20200332)  
-- Sanghyeon Lee (20200460)  
-- Minkyung Choi (20234447)
-
----
-
-## 📄 Citation
-
-> “Analyzing the Influence of Presidential Candidates' Tweets on Stock Market Volatility: A Dynamic Topic Modeling Approach”  
-> HSS407 / DS571 / DHS407 – Understanding Computational Social Science, Spring 2024
-
----
-
-## 🔗 References
-
-- Gjerstad et al. (2021) – *Do President Trump's tweets affect financial markets?*  
-- Blei et al. (2006) – *Dynamic Topic Models*  
-- Bianchi et al. (2019) – *High-Frequency Identification with Twitter*  
-- Alpha Vantage Stock API – [https://www.alphavantage.co/](https://www.alphavantage.co/)  
-- Twitter Stance Election 2020 – [https://paperswithcode.com/dataset/twitter-stance-election-2020](https://paperswithcode.com/dataset/twitter-stance-election-2020)
 
